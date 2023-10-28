@@ -25,10 +25,10 @@ Installing
 4. git status
 5. git config --global user.name "souvikmukh02"
 6. git config --global user.email "souvk.mukh02@gmail.com"
-7. git remote add origin <path code to repository>
+7. git remote add origin <path code to repository>               ***other than origin define any name
 8. git commit -m "<message>"
 9. git branch
-10. git push -u origin main
+10. git push -u origin main					*** define the name mentioned above
 if error
 10. git pull --rebase origin main
 11. git push -u origin main
